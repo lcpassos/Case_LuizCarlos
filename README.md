@@ -1,20 +1,4 @@
 # Case_LuizCarlos
-Instruções
-1.	Escolha um dos cases abaixo: Twitter ou Cats API
-    1.2. O Twitter, às vezes, demora para enviar as chaves de acesso. Se isso travar seu progresso, você tem a API de gatos para consumir.
-2.	Utilize o github ou afins para versionar seu projeto
-3.	Você tem até 7 dias corridos para concluir as atividades. (O Resultado deverá ser enviando após os 7 dias, independente do ponto do desenvolvimento);
-3.1. Foque 1o em sua zona de conhecimento, e progrida o máximo que puder. Caso não consiga concluir todas as atividades, por favor, entregue o que foi feito até a data solicitada.
-4.	Fique à vontade para utilizar tecnologias, frameworks e técnicas não citadas nas atividades.
-5.	Recomendamos a utilização do docker (http://www.docker.com) para montagem do ambiente por facilitar a nossa execução e validação, mas fique à vontade para usar outras coisas, como cloud publica por exemplo, contanto que nós consigamos executar e validar sua infra/código.
-5.1 Caso opte pela utilização do docker, publique os Dockerfiles no repositório do projeto ou deixe a imagem publicada no Dockerhub.
-6.	Critérios de avaliação:
-a.	Código: 25%
-b.	Logging: 25%
-c.	Métricas: 25%
-d.	Facilidade de Deploy: 25%
-Obs.: Para todos os itens iremos considerar a documentação como parte da entrega. 
-
  
 Case Twitter
 
