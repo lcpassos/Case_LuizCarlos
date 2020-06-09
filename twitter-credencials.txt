@@ -1,4 +1,4 @@
-#Altere esta linha com o respectivo valor: consumer_key...............
-#Altere esta linha com o respectivo valor: consumer_secret
-#Altere esta linha com o respectivo valor: access_token
-#Altere esta linha com o respectivo valor: access_token_secret
+#Altere toda esta linha com o respectivo valor: consumer_key.
+#Altere toda esta linha com o respectivo valor: consumer_secret.
+#Altere toda esta linha com o respectivo valor: access_token.
+#Altere toda esta linha com o respectivo valor: access_token_secret.
