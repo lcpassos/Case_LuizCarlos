@@ -40,7 +40,12 @@ e.	Manual com prints dos Logs (item 7) e os Dashboards (item 9) explicando cada 
 
 Instruções:
 1. Para que a API funcione, você precisará solicitar ao Twitter a permissão para uso.
+
 	a) - Siga as orientações do link https://docs.inboundnow.com/guide/create-twitter-application/  para solicitar tais credênciais e também a criação do app no site de Desenvolvimento do Twitter.
+
 2. Clone o repositório: https://github.com/lcpassos/Case_LuizCarlos.git
-3- Com as Credênciais obtidas no passo 1, altere o arquivo twitter-credencials.txt com as respectivas credênciais
+
+3- Com as Credênciais obtidas no passo 1, altere o arquivo twitter-credencials.txt com as respectivas credênciais.
+
+4- Em construção...
 
