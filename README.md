@@ -38,6 +38,10 @@ e.	Manual com prints dos Logs (item 7) e os Dashboards (item 9) explicando cada 
 
 ##############################################################################################
 
+Dependências:
+1. Python3 ou superior instalado
+2. Pacote tweepy do Python instalado. Documentação: http://docs.tweepy.org/en/latest/
+
 Instruções:
 1. Para que a API funcione, você precisará solicitar ao Twitter a permissão para uso.
 
